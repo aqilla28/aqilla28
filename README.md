@@ -1,5 +1,5 @@
 <h1 align="center">Hi there!👋 My name is Aqilla Dwi Fadia.</h1>
-<h3 align="center">I graduated from the Bachelor of Information Systems program at Trunojoyo Madura University. My area of interest is website development. You can find me on Instagram or on LinkedIn.</h3>
+<h3 align="center">I graduated from the Bachelor of Information Systems program at Trunojoyo Madura University. My area of interest is website development. </h3>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
